@@ -1,3 +1,3 @@
 ## Python Guessing game
 
-#### Pratice making a simple guessing game using Python
+This is simply practise making a simple guessing game using Python
